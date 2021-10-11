@@ -1,0 +1,25 @@
+#note_box div.head a {
+  float: right;
+  font-size: 10pt;
+  margin-left: 10px;
+}
+
+#note_box div.content {
+  margin: 0px;
+}
+
+#note_box textarea {
+  margin: 0px;
+  padding: 2px;
+  border-style: none;
+}
+
+#menu {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+
+#menu span {
+  margin-right: 10px;
+}

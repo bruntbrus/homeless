@@ -1,0 +1,23 @@
+form {
+  position: relative;
+  width: 200px;
+  font-size: 10pt;
+  margin: 50px auto;
+  padding: 5px;
+  text-align: right;
+  border: 1px solid #ccc;
+}
+
+input[name="username"], input[name="password"] {
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+input[name="login"] {}
+
+div.message {
+  clear: both;
+  color: red;
+  text-align: center;
+  padding-top: 5px;
+}
